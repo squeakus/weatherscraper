@@ -1,0 +1,1 @@
+This scrapes the weather data from the Irish Weather network, a bunch of volunteers who collect data on their own personal weather stations. It is then rendered using raphael.js on a map of ireland, the data is updated every 15 minutes
